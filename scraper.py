@@ -1,4 +1,5 @@
-# Made by Italo Maia, ported to morph.io by Nixtren
+# Made by Italo Maia, enhanced by jkrauska and ported to morph.io by Nixtren
+# https://github.com/hadiasghari/pyasn/blob/master/pyasn-utils/pyasn_util_asnames.py
 
 import scraperwiki
 
